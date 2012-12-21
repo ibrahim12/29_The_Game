@@ -1,0 +1,13 @@
+{"ts":1356112433529,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1356112475979,"patch":[[{"diffs":[[1,"<body onload=\"start()\">\n  <canvas id=\"glcanvas\" width=\"640\" height=\"480\">\n    Your browser doesn't appear to support the HTML5 <code>&lt;canvas&gt;</code> element.\n  </canvas>\n</body>"]],"start1":0,"start2":0,"length1":0,"length2":183}]],"length":183,"saved":false}
+{"ts":1356112507097,"patch":[[{"diffs":[[1,"\n\n\n\n"],[0,"<body on"]],"start1":0,"start2":0,"length1":8,"length2":12}]],"length":187,"saved":false}
+{"ts":1356112556168,"patch":[[{"diffs":[[0,"\n"],[-1,"\n"],[1,"<link type='text/javscript' href='script.js' />"],[0,"\n\n<body "]],"start1":0,"start2":0,"length1":10,"length2":56}]],"length":233,"saved":false}
+{"ts":1356112561312,"patch":[[{"diffs":[[0,"text/jav"],[1,"a"],[0,"script' "]],"start1":13,"start2":13,"length1":16,"length2":17}]],"length":234,"saved":false}
+{"ts":1356112631775,"patch":[[{"diffs":[[0,"\n<"],[-1,"link"],[1,"script"],[0," typ"]],"start1":0,"start2":0,"length1":10,"length2":12}]],"length":236,"saved":false}
+{"ts":1356112657049,"patch":[[{"diffs":[[1,"\n<html>"],[0,"\n<script"]],"start1":0,"start2":0,"length1":8,"length2":15}]],"length":243,"saved":false}
+{"ts":1356112658909,"patch":[[{"diffs":[[0,"\n</body>"],[1,"\n\n</html>"]],"start1":235,"start2":235,"length1":8,"length2":17}]],"length":252,"saved":false}
+{"ts":1356112668304,"patch":[[{"diffs":[[0,"\n<html>\n"],[1,"<head>\n"],[0,"<script "]],"start1":0,"start2":0,"length1":16,"length2":23},{"diffs":[[0,"js' />\n\n"],[1,"</head>\n"],[0,"<body on"]],"start1":59,"start2":59,"length1":16,"length2":24}]],"length":267,"saved":false}
+{"ts":1356112670285,"patch":[[{"diffs":[[0,"\n<head>\n"],[1,"    "],[0,"<script "]],"start1":7,"start2":7,"length1":16,"length2":20},{"diffs":[[0,"</head>\n"],[1,"\n"],[0,"<body on"]],"start1":71,"start2":71,"length1":16,"length2":17}]],"length":272,"saved":false}
+{"ts":1356112673572,"patch":[[{"diffs":[[0,".js' />\n"],[-1,"\n"],[0,"</head>\n"]],"start1":62,"start2":62,"length1":17,"length2":16}]],"length":271,"saved":false}
+{"ts":1356112800453,"patch":[[{"diffs":[[0,"art()\">\n"],[1,"    hello\n"],[0,"  <canva"]],"start1":95,"start2":95,"length1":16,"length2":26}]],"length":281,"saved":false}
+{"ts":1356112851189,"patch":[[{"diffs":[[0,"\n   "],[-1," <script type='text/javascript' href='script.js' />"],[0,"\n</h"]],"start1":14,"start2":14,"length1":59,"length2":8}]],"length":230,"saved":false}
